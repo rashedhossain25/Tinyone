@@ -1,0 +1,71 @@
+psd to html ,psd to bootstrap
+psd to html responsive with bootstrap
+
+font famialy 
+font-family: 'PT Sans', sans-serif;
+400,700
+
+
+color'''''''
+
+Black   #010101
+Ash     #898989
+Yellow  #fcdb00
+
+=================================
+
+Cheak screen responsove ------
+
+xxl   1440 -------- After cheak screen of complate project === 1600- 1800- 2100 
+xl    1200
+lg    992
+
+
+
+md    768
+
+
+
+sm    576
+col   320
+
+===================================
+
+header-----------------------
+
+menu            
+
+         xxl/xl/lg                          md                sm/col
+             22                             22                   20
+                                                     
+
+
+slider--------------------------
+
+         xxl/xl/lg               md                sm / col
+
+h1          32                   32                 25              
+h2          20                   20                 18
+p           16                   16                 16/15
+icon        42                   42                 35
+pb         100                   100                60
+
+
+
+padding-------------------------  
+
+xxl/xl/lg               md                sm/col  
+100-120                 80                 50-70
+
+feature----------------------------------
+         xxl/xl/lg               md                sm / col
+ pt         100                  
+ pb         120
+ mt         70                   50                  30
+ h1         32                   32                  25
+ p          20                   20                  17
+
+
+ icon       50                    50                  
+ h1         22                    22                  20/18
+ p          16                    16                  16
